@@ -24,7 +24,7 @@ const Navigation = () => {
         <li><Link to="/linear">Linear Travel</Link></li>
         <li><Link to="/scroll">Scroll Animation</Link></li>
         <li><Link to="/card3d">3D Card</Link></li>
-        <li><Link to="/border">Border Animation</Link></li>
+        {/* <li><Link to="/border">Border Animation</Link></li> */}
       </ul>
     </nav>
   )
