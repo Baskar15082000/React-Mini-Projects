@@ -64,7 +64,7 @@ const AppRoutes = () => {
         <Route path="/linear" element={<LinearTravelAnimation />} />
         <Route path="/scroll" element={<ScrollAnimation />} />
         <Route path="/card3d" element={<Card3D />} />
-        <Route path="/border" element={<BorderAnimation />} />
+        {/* <Route path="/border" element={<BorderAnimation />} /> */}
       </Routes>
     </>
   )

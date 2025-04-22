@@ -11,6 +11,20 @@ body {
   margin: 0;
   padding: 0;
 }
+/* Default light theme styles */
+body.light {
+  background-color: white;
+  color: black;
+}
+
+/* Dark theme styles */
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+/* Additional styles for dark/light mode as needed */
+
 .bg {
   display: flex;
   justify-content: center;
